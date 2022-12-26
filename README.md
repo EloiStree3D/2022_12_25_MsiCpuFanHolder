@@ -14,3 +14,6 @@ V0.2: Start of the CPU version.
 ![image](https://user-images.githubusercontent.com/106495897/209485632-eb7bb077-b644-4afd-805e-319104ee45ce.png)
 
 I need to create a version with a bit of death to avoid the screen to move the air system.
+
+V0.3: Attempt to do a cpu version with the hole for screen and magnet 
+![image](https://user-images.githubusercontent.com/106495897/209563217-316169b5-70c8-4c5c-9751-d7361c73c1ea.png)
